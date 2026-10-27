@@ -264,6 +264,6 @@ During checkout, test any of the following valid coupons:
 - **Project Title**: IMovies – Movie Ticket Booking Made Simple
 - **Architecture**: MERN Stack (MongoDB, Express, React, Node)
 - **Design System**: Midnight Cinema Dark Purple (`#0B1020`, `#11182B`, `#171D33`, `#7C3AED`, `#A855F7`)
-- **Developer**: Tanishk
+- **Developer**: Tanishq Upadhyay
 - **Academic Year**: 2026
 
